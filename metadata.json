@@ -1,0 +1,6 @@
+{
+  "name": "Hilola Math",
+  "description": "5-11-sinf o'quvchilari uchun interaktiv matematika ta'lim ilovasi: darslar, mashqlar, testlar, qiziqarli o'yinlar, AI Ustoz va qadam-baqadam masala yechuvchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
